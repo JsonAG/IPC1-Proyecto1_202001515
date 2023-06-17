@@ -1,0 +1,5 @@
+codigo;nombre;apellido;correo;genero
+1;Juan;Perez;jperez@example.com;M
+2;Maria;Garcia;mgarcia@example.com;F
+3;Carlos;Lopez;clopez@example.com;M
+4;Pedro;Hernandez;phernandez@example.com;M
